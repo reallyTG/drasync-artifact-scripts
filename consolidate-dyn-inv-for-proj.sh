@@ -1,7 +1,6 @@
 #!/bin/bash
 
 projName=$1
-pattern=$2
 
 cd /home/evaluation/case-studies/$1
 
